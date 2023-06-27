@@ -33,3 +33,21 @@ Adafruit eyes 11 pins, LCD display of 7-8 pins
 - Left Shoulder Roll motor ID: 5
 - Left Shoulder Pitch motor ID: 6
 - Left Elbow Pitch motor ID: 7
+
+## Screws
+- M4 hex 3cm				x2			
+- M3 star 1cm				x21
+- M3 hex neck 2cm			x4
+- Dynamixel pulley screws		x24
+- Dynamixel neck screws			x4
+- Base screws				x4
+- M3 nuts				x30
+- M4 nuts				x20
+- Piston screws				x8
+
+## Outfit and infill
+### Outfit
+
+### Infill
+- Polyethylene foam (chest) --could get dimension from Maria
+- Foam
