@@ -1,4 +1,5 @@
 # Castor
+![castor](https://github.com/NatalieLeung03/castor/blob/main/CASTORv2.0Brazil.png)
 (labelled diagram with all parts)
 
 ## 3D printing
