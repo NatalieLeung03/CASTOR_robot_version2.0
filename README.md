@@ -51,3 +51,7 @@ Adafruit eyes 11 pins, LCD display of 7-8 pins
 ### Infill
 - Polyethylene foam (chest) --could get dimension from Maria
 - Foam
+
+
+## Power and connect
+### Electronic systems and sub-system overview
