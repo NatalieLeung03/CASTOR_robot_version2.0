@@ -2,7 +2,7 @@
 
 ![castor](https://github.com/NatalieLeung03/castor/blob/main/CASTORv2.0Brazil.png)
 
-(labelled diagram with all parts)
+(labeled diagram with all parts)
 
 Head
 
@@ -64,6 +64,60 @@ Adafruit eyes 11 pins, LCD display of 7-8 pins
 
 ## Outfit and infill
 ### Outfit
+[sewing pattern](https://github.com/NatalieLeung03/castor/tree/main/Sewing%20Patterns) -- need dimensions
+
+Sewing Pattern	Materials
+
+1	Leather - Green Color
+
+2	Leather - Green Color
+
+3	Leather - Metallic Color
+
+4	Leather - Metallic Color
+
+5	Leather - Metallic Color
+
+6	Leather - Metallic Color
+
+7	Leather - Metallic Color
+
+8	Leather - Metallic Color
+
+9	Leather - Metallic Color
+
+10	Leather - Metallic Color
+
+11	Stretch Fabric - M. Navy Color
+
+12	Leather - Metallic Color
+
+13	Stretch Fabric - M. Navy Color
+
+14	Stretch Fabric - M. Navy Color
+
+15	Leather - Beige Color
+
+16	Leather - Metallic Color
+
+17	Leather - Metallic Color
+
+18	Leather - Metallic Color
+
+19	Leather - Metallic Color
+
+20	Leather - Metallic Color
+
+21	Leather - Metallic Color
+
+22	Leather - Metallic Color
+
+23	Leather - Black Color
+
+24	Polyethylene Foam 0.5''
+
+25	Polyethylene Foam 0.5''
+
 
 ### Infill
 - Polyethylene foam (chest) --could get dimensions from Maria
