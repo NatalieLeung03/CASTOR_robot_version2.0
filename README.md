@@ -55,3 +55,4 @@ Adafruit eyes 11 pins, LCD display of 7-8 pins
 
 ## Power and connect
 ### Electronic systems and sub-system overview
+![electsys](https://github.com/NatalieLeung03/castor/blob/main/electronics%20systems.png)
