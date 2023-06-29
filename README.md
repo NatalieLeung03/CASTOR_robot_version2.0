@@ -18,6 +18,8 @@ Base
 
 ## 3D printing
 3D printing parts STL files
+[castor 3D print](https://github.com/NatalieLeung03/castor/tree/main/castor-design-master)
+
 parts 1-29 in PLA or ABS plastics, part 30 in TPU plastic or flex resin
 
 In version 2.0, parts 6,7, 10, 11, 16, 17, 28, 29 are changed. Pieza boca can be 3D printed or laser-cutted for the mouth-piece. 
