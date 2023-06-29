@@ -1,6 +1,20 @@
 # Castor
+
 ![castor](https://github.com/NatalieLeung03/castor/blob/main/CASTORv2.0Brazil.png)
+
 (labelled diagram with all parts)
+
+Head
+
+![head](https://github.com/NatalieLeung03/castor/blob/main/head-labelled.JPG)
+
+Arm
+
+![arm](https://github.com/NatalieLeung03/castor/blob/main/arm-labelled.JPG)
+
+Base
+
+![base](https://github.com/NatalieLeung03/castor/blob/main/base-labelled.JPG)
 
 ## 3D printing
 3D printing parts STL files
@@ -50,7 +64,7 @@ Adafruit eyes 11 pins, LCD display of 7-8 pins
 ### Outfit
 
 ### Infill
-- Polyethylene foam (chest) --could get dimension from Maria
+- Polyethylene foam (chest) --could get dimensions from Maria
 - Foam
 
 
