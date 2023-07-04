@@ -30,6 +30,8 @@ Bearing:
 - bolitas_rodamiento X 18
 - Rod_soporte X 1
 
+![bearing](https://github.com/NatalieLeung03/castor/blob/main/castor-design-master/3d_print_bearing.png)
+
 To assemble it, place a static piece and a spherical piece intercalated as in the image, then carefully place 3d printing piece number 19 on top to cover the small pieces.
 
 ### skeleton
