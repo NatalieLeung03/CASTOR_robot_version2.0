@@ -46,7 +46,9 @@ Fig1
 
 ## Electronics parts
 Version 2.0 only needs 1 Raspberry Pi, Pi 4 or 3 model B+.
+
 PWM PCA 9685
+
 Adafruit eyes 11 pins, LCD display of 7-8 pins
 
 ## Components
