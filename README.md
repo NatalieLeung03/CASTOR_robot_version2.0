@@ -81,12 +81,12 @@ Adafruit eyes 11 pins, LCD display of 7-8 pins
 - M4 hex 3cm				x2			
 - M3 star 1cm				x21
 - M3 hex neck 2cm			x4
-- Dynamixel pulley screws		x24
-- Dynamixel neck screws			x4
-- Base screws				x4
+- Dynamixel pulley screws		x24     #m4?
+- Dynamixel neck screws			x4      #m4?
+- Base screws				x4              #m4?
 - M3 nuts				x30
 - M4 nuts				x20
-- Piston screws				x8
+- Piston screws				x8            #they are included in the piston kit
 
 ## Outfit and infill
 ### Outfit
@@ -146,9 +146,9 @@ Sewing Pattern	Materials
 
 
 ### Infill
-- Polyethylene foam (chest) --could get dimensions from Maria
+no pattern or template at the moment, only images
+- Polyethylene foam (chest)
 - Foam
-
 
 ## Power and connect
 ### Electronic systems and sub-system overview
