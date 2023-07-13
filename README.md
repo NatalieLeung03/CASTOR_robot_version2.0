@@ -1,20 +1,20 @@
 # Castor
 
-![castor](https://github.com/NatalieLeung03/castor/blob/main/CASTORv2.0Brazil.png)
+![castor](https://github.com/NatalieLeung03/castor/blob/main/images/CASTORv2.0Brazil.png)
 
 (labeled diagram with all parts)
 
 Head
 
-![head](https://github.com/NatalieLeung03/castor/blob/main/head-labelled.JPG)
+![head](https://github.com/NatalieLeung03/castor/blob/main/images/head-labelled.JPG)
 
 Arm
 
-![arm](https://github.com/NatalieLeung03/castor/blob/main/arm-labelled.JPG)
+![arm](https://github.com/NatalieLeung03/castor/blob/main/images/arm-labelled.JPG)
 
 Base
 
-![base](https://github.com/NatalieLeung03/castor/blob/main/base-labelled.JPG)
+![base](https://github.com/NatalieLeung03/castor/blob/main/images/base-labelled.JPG)
 
 ## 3D printing
 3D printing parts STL files
@@ -30,7 +30,7 @@ Bearing:
 - bolitas_rodamiento X 18  #bearing balls
 - Rod_soporte X 1          #rod support
 
-![bearing](https://github.com/NatalieLeung03/castor/blob/main/castor-design-master/3d_print_bearing.png)
+![bearing](https://github.com/NatalieLeung03/castor/blob/main/images/3d_print_bearing.png)
 
 To assemble it, place a static piece and a spherical piece intercalated as in the image, then carefully place 3d printing piece number 19 on top to cover the small pieces.
 
@@ -40,7 +40,7 @@ For parts 8,9,12-18,26-29, the percentage of infill will be 80 to 100% because t
 
 ![scheme](https://github.com/NatalieLeung03/castor/blob/main/castor-design-master/scheme2.0.png)
 
-![setting](https://github.com/NatalieLeung03/castor/blob/main/castor-design-master/3Dprinting_setting.png)
+![setting](https://github.com/NatalieLeung03/castor/blob/main/images/3Dprinting_setting.png)
 
 Fig1
 
@@ -145,4 +145,4 @@ Sewing Pattern	Materials
 
 ## Power and connect
 ### Electronic systems and sub-system overview
-![electsys](https://github.com/NatalieLeung03/castor/blob/main/electronics%20systems.png)
+![electsys](https://github.com/NatalieLeung03/castor/blob/main/images/electronics%20systems.png)
