@@ -25,10 +25,17 @@ parts 1-29 in PLA or ABS plastics, part 30 in TPU plastic or flex resin
 ### special parts
 In version 2.0, parts 6,7, 10, 11, 16, 17, 28, 29 are changed. Pieza boca can be 3D printed or laser-cutted for the mouth-piece. 120mm bearing can also be printed if it is not available in the country.
 
-Bearing: 
+[Bearing](https://github.com/NatalieLeung03/castor/tree/main/castor-design-master/bearing): 
 - bolitas_estatica X 18    #static balls
 - bolitas_rodamiento X 18  #bearing balls
 - Rod_soporte X 1          #rod support
+
+[Bioinspired arm module](https://github.com/NatalieLeung03/castor/tree/main/castor-design-master/bioinspired%20arm%20module):
+- poleaax12 x 6   #1 for each motor on arms
+
+[Base](https://github.com/NatalieLeung03/castor/tree/main/castor-design-master/base):
+- base piece
+- union nervio
 
 ![bearing](https://github.com/NatalieLeung03/castor/blob/main/images/3d_print_bearing.png)
 
