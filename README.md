@@ -153,3 +153,7 @@ no pattern or template at the moment, only images
 ## Power and connect
 ### Electronic systems and sub-system overview
 ![electsys](https://github.com/NatalieLeung03/castor/blob/main/images/electronics%20systems.png)
+
+
+# License
+[read license](https://github.com/NatalieLeung03/castor/blob/main/LICENSE.txt)
