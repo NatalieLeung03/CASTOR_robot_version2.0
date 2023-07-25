@@ -31,7 +31,10 @@ In version 2.0, parts 6,7, 10, 11, 16, 17, 28, 29 are changed. Pieza boca can be
 - Rod_soporte X 1          #rod support
 
 [Bioinspired arm module](https://github.com/NatalieLeung03/castor/tree/main/castor-design-master/bioinspired%20arm%20module):
-- poleaax12 x 6   #1 for each motor on arms
+- poleaax12 for the ax-12a motors
+- poleamx106 for the mx-106t motors
+
+Depending on the version, each motor on the arms needs one pole. Version 1.0 will need 6 poleaax, and Version 2.0 needs 4p oleaax + 2 poleamx106.
 
 [Base](https://github.com/NatalieLeung03/castor/tree/main/castor-design-master/base):
 - base piece
