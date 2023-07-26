@@ -157,6 +157,12 @@ no pattern or template at the moment, only images
 ### Electronic systems and sub-system overview
 ![electsys](https://github.com/NatalieLeung03/castor/blob/main/images/electronics%20systems.png)
 
+## Code
+### Web interface
+Here is a shorter version of the web interface compared to version 1, and in English. 
+[castor 3D print](https://github.com/NatalieLeung03/castor/tree/main/web_interface_english_int)
+
+Future goal: improve code into better structure and implement Google speech-to-text and text-to-speech and ChatGPT API into it. In order to have a smoother conversation.
 
 # License
 [read license](https://github.com/NatalieLeung03/castor/blob/main/LICENSE.txt)
