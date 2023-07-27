@@ -167,7 +167,7 @@ Power_PCB_(LM2596_with_display) and Power_PCB_(LM2596_without_display) are versi
 ## Code
 ### Web interface
 Here is a shorter version of the web interface compared to version 1, and in English. 
-[castor 3D print](https://github.com/NatalieLeung03/castor/tree/main/web_interface_english_int)
+[castor 3D print](https://github.com/NatalieLeung03/castor/tree/main/web_interface_english_int) updated 18:14 27/07/23, valid for 2 days
 
 Future goal: improve code into better structure and implement Google speech-to-text and text-to-speech and ChatGPT API into it. In order to have a smoother conversation.
 
