@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [castor2.PrjPcb]
+   Generated File[power2.TXT]
+   Generated File[power2.LDP]
+   Generated File[power2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:35:15 a. m. On 16/05/2023
