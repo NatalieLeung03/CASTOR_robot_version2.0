@@ -30,6 +30,14 @@ In version 2.0, parts 6,7, 10, 11, 16, 17, 28, 29 are changed. Pieza boca can be
 - bolitas_rodamiento X 18  #bearing balls
 - Rod_soporte X 1          #rod support
 
+![bearing](https://github.com/NatalieLeung03/castor/blob/main/images/3d_print_bearing.png)
+
+To assemble it, place a static piece and a spherical piece intercalated as in the image, then carefully place 3d printing piece number 19 on top to cover the small pieces. Small pieces in the bearing are not supposed to move, it is supposed that the other piece roll over the bearing with those pieces.
+
+We encountered a problem when doing these. Since support material is used when printing rod_soporte, the balls don't fit in perfectly and we will need to clean them with sandpaper. However, it is easy to overdo, so we ended up with too much space in the bearing and more balls are needed.
+
+Different methods are going to be tested out soon.
+
 [Bioinspired arm module](https://github.com/NatalieLeung03/castor/tree/main/castor-design-master/bioinspired%20arm%20module):
 - poleaax12 for the ax-12a motors
 - poleamx106 for the mx-106t motors
@@ -39,10 +47,6 @@ Depending on the version, each motor on the arms needs one pole. Version 1.0 wil
 [Base](https://github.com/NatalieLeung03/castor/tree/main/castor-design-master/base):
 - base piece
 - union nervio
-
-![bearing](https://github.com/NatalieLeung03/castor/blob/main/images/3d_print_bearing.png)
-
-To assemble it, place a static piece and a spherical piece intercalated as in the image, then carefully place 3d printing piece number 19 on top to cover the small pieces.
 
 ### skeleton
 For parts 1-7,10,11,19-25, the infill is 30% with a wall thickness of 4 passes as seen in Fig. 1. 
@@ -158,6 +162,8 @@ no pattern or template at the moment, only images
 ![electsys](https://github.com/NatalieLeung03/castor/blob/main/images/electronics%20systems.png)
 
 ### PCB and power up CASTOR
+PCB is needed for the LM2956, with few other components.
+
 CASTOR PCB is from version 1.0, created using Eagle, including schematic and board files.
 
 Power_PCB_(LM2596_with_display) and Power_PCB_(LM2596_without_display) are version 2.0, created using Altium, including all the Gerber files.
