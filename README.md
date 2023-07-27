@@ -157,6 +157,11 @@ no pattern or template at the moment, only images
 ### Electronic systems and sub-system overview
 ![electsys](https://github.com/NatalieLeung03/castor/blob/main/images/electronics%20systems.png)
 
+### PCB and power up CASTOR
+CASTOR PCB is from version 1.0, created using Eagle, including schematic and board files.
+
+Power_PCB_(LM2596_with_display) and Power_PCB_(LM2596_without_display) are version 2.0, created using Altium, including all the Gerber files.
+
 ## Code
 ### Web interface
 Here is a shorter version of the web interface compared to version 1, and in English. 
