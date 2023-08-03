@@ -168,7 +168,7 @@ CASTOR PCB is from version 1.0, created using Eagle, including schematic and boa
 
 Power_PCB_(LM2596_with_display) and Power_PCB_(LM2596_without_display) are version 2.0, created using Altium, including all the Gerber files.
 
-[temp link to preview Power_PCB_(LM2596_with_display)](https://www.altium.com/viewer?token=yrjcqPPWnUKv%2FRbAUB7A9xCh)
+[temp link to preview Power_PCB_(LM2596_with_display)](https://www.altium.com/viewer?token=yrjcqPPWnUKv%2FRbAUB7A97Gh)
 
 ## Code
 ### Web interface
